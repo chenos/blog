@@ -42,7 +42,7 @@ export default class Template extends React.Component {
                   textDecoration: "none",
                 }}
               >
-                Gatsby
+                Chen Lin's Blog
               </Link>
             </h1>
           </div>
